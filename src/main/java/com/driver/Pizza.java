@@ -6,6 +6,8 @@ public class Pizza {
 
     private int price;
     private Boolean isVeg;
+    protected Boolean toppingAdded;
+    protected Boolean cheeseAdded;
     private String bill;
     protected int buy;
 
